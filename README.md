@@ -14,3 +14,4 @@ Go to ``` Preferences -> Languages & Frameworks -> JavaScript -> Code Quality To
 and select eslint checkbox. That's it!
 
 ### How it works
+![webstorm example](https://github.com/valin0k/eslint-prettier-react/blob/master/eslint-example.gif)
